@@ -1,7 +1,10 @@
 # Android Alarm Clock
+
+![](images/alarm_clock_banner.png)
+
  Android Alarm Clock is an alarm clock and weather forecast for Android smartphones that brings pure alarm experience to you by powerful features and clean interface. There is demo to study how to make great alarm clock. The App has been published on Google Play on 2017.
  
-![](images/alarm_clock_banner.png)
+
 ![](images/alarm_clock_banner_1.png) 
  
 # Features
