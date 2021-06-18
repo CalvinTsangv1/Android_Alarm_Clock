@@ -1,0 +1,778 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record_save.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_record_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_timer.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\9778934d1291890ce87b453928f9b119906bcfe2\\output\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_stop_watch_timer_settings.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_stop_watch_timer_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\9778934d1291890ce87b453928f9b119906bcfe2\\output\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact_us.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_device_auth_dialog_fragment.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\c796768b34a34fcc79fe9676ab9db9f8cff07fe3\\output\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_sleeping_data.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_sleeping_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\372188c2404419046a932c918c872c06192a70ce\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_stencil7.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\view_stencil7.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sleeping_data.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_sleeping_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_alarm_setting.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_alarm_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_more.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\cf1a2630a749da31394cf508d0a9e461aa015dbe\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5f710df9fd4f4c0e5212a42d4b00c27e9f320592\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_stencil3.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\view_stencil3.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_record_stopwatch_list.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_record_stopwatch_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alarm_setting.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_alarm_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tab_bar1.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_tab_bar1.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stop_watch.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_stop_watch.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record_detail.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_record_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_general_setting.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_general_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_record_detail.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_record_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_more.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_smart_device_dialog_fragment.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\0192c153b179c553a05e507af65f69072e86eedc\\output\\res\\layout\\com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stop_watch_timer_settings.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_stop_watch_timer_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\9778934d1291890ce87b453928f9b119906bcfe2\\output\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record_save.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_record_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_record_detail.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_record_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_general_setting.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_general_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\db64e6e996467b34543b445b8f135a0f7965f007\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alarm.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\27259ee22224d1a08f612849be704a325e898ead\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_set_alarm.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_set_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\27259ee22224d1a08f612849be704a325e898ead\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d230a1d813597e2754873e4f7c257e7847d4ee3b\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record_detail.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_record_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d230a1d813597e2754873e4f7c257e7847d4ee3b\\output\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab_bar1.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_tab_bar1.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_alarm.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d230a1d813597e2754873e4f7c257e7847d4ee3b\\output\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d230a1d813597e2754873e4f7c257e7847d4ee3b\\output\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\c5adf01441d1782daacae645c03411da4a3fc7aa\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_stencil7.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\view_stencil7.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sleeping_track.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_sleeping_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_sleeping_track.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_sleeping_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_record_stopwatch_list_item.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\view_record_stopwatch_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_timer.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_sleeping_data.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_sleeping_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\db64e6e996467b34543b445b8f135a0f7965f007\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_stop_watch.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_stop_watch.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5f710df9fd4f4c0e5212a42d4b00c27e9f320592\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_sleeping.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_sleeping.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\c796768b34a34fcc79fe9676ab9db9f8cff07fe3\\output\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\9778934d1291890ce87b453928f9b119906bcfe2\\output\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\c796768b34a34fcc79fe9676ab9db9f8cff07fe3\\output\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stop_watch_timer_settings.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_stop_watch_timer_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_setting.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_record_save.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_record_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\27259ee22224d1a08f612849be704a325e898ead\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record_stopwatch_list.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_record_stopwatch_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alarm_screen.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_alarm_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_more.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\27259ee22224d1a08f612849be704a325e898ead\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_stop_watch_list_item.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\view_stop_watch_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\27259ee22224d1a08f612849be704a325e898ead\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_alarm.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_set_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_sleeping_track.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_sleeping_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sleeping.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_sleeping.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact_us.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\db64e6e996467b34543b445b8f135a0f7965f007\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\c5adf01441d1782daacae645c03411da4a3fc7aa\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_stop_watch_list_item.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\view_stop_watch_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\27259ee22224d1a08f612849be704a325e898ead\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_general_setting.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_general_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_alarm_screen.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_alarm_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_smart_device_dialog_fragment.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\c796768b34a34fcc79fe9676ab9db9f8cff07fe3\\output\\res\\layout\\com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_set_alarm.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_set_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\db64e6e996467b34543b445b8f135a0f7965f007\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_timer_list_item.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\view_timer_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\c5adf01441d1782daacae645c03411da4a3fc7aa\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_more.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stop_watch.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_stop_watch.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_timer.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\c5adf01441d1782daacae645c03411da4a3fc7aa\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sleeping_track.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_sleeping_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\9778934d1291890ce87b453928f9b119906bcfe2\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5f710df9fd4f4c0e5212a42d4b00c27e9f320592\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_alarm.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_record_save.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_record_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\27259ee22224d1a08f612849be704a325e898ead\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alarm.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_stop_watch.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_stop_watch.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sleeping_data.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_sleeping_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_stencil3.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\view_stencil3.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_timer_list_item.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\view_timer_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\27259ee22224d1a08f612849be704a325e898ead\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_alarm_screen.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_alarm_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alarm_screen.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_alarm_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record_stopwatch_list.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_record_stopwatch_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact_us.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\c5adf01441d1782daacae645c03411da4a3fc7aa\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact_us.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alarm_setting.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_alarm_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_record_stopwatch_list_item.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\view_record_stopwatch_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d230a1d813597e2754873e4f7c257e7847d4ee3b\\output\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tab_bar1.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_tab_bar1.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_sleeping.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_sleeping.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_alarm_setting.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_alarm_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\9778934d1291890ce87b453928f9b119906bcfe2\\output\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\0192c153b179c553a05e507af65f69072e86eedc\\output\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\c5adf01441d1782daacae645c03411da4a3fc7aa\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\c5adf01441d1782daacae645c03411da4a3fc7aa\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_general_setting.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_general_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_stop_watch_timer_settings.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_stop_watch_timer_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_setting.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5f710df9fd4f4c0e5212a42d4b00c27e9f320592\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_device_auth_dialog_fragment.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\0192c153b179c553a05e507af65f69072e86eedc\\output\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab_bar1.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_tab_bar1.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a0ec87776d244192a91467ef7b3a9206fc707479\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\db64e6e996467b34543b445b8f135a0f7965f007\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\27259ee22224d1a08f612849be704a325e898ead\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sleeping.xml",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_sleeping.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\c5adf01441d1782daacae645c03411da4a3fc7aa\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_timer.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_alarm.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\activity_set_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_record_stopwatch_list.xml",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\layout\\fragment_record_stopwatch_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d230a1d813597e2754873e4f7c257e7847d4ee3b\\output\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\c5adf01441d1782daacae645c03411da4a3fc7aa\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5f710df9fd4f4c0e5212a42d4b00c27e9f320592\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3f75d62f33e9347efcf1b3e51af6d2611aad8bf3\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\0192c153b179c553a05e507af65f69072e86eedc\\output\\res\\layout\\com_facebook_login_fragment.xml"
+    }
+]

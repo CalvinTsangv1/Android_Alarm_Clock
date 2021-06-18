@@ -1,0 +1,257 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    tools:context="com.neonto.exportedByUser_s2461812465168012.MyApp.StopWatchTimerSettingsFragment" >
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.StopWatchTimerSettingsBackgroundShapeView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/mBackgroundShape"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="0.0mm"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.StopWatchTimerSettingsRectangleView
+            android:layout_width="match_parent"
+            android:layout_height="4.25px"
+            android:id="@+id/mRectangle"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="116.03px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.StopWatchTimerSettingsRectangleCopyView
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="403.43px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.StopWatchTimerSettingsRectangleCopy2View
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy2"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="561.5px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.StopWatchTimerSettingsRectangleCopy3View
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy3"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="676.46px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.StopWatchTimerSettingsRectangleCopy4View
+            android:layout_width="match_parent"
+            android:layout_height="4.25px"
+            android:id="@+id/mRectangleCopy4"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="777.05px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.StopWatchTimerSettingsRectangleCopy5View
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy5"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="949.49px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.StopWatchTimerSettingsRectangleCopy6View
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy6"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="274.1px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/primary"
+            android:gravity="left"
+            android:textSize="15.6dp"
+            android:id="@+id/mText"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="36.81px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="17.6dp"
+            android:id="@+id/mText2"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="130.03px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="17.6dp"
+            android:id="@+id/mText4"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="310.1px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="17.6dp"
+            android:id="@+id/mText5"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="417.43px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/secondary_text"
+            android:gravity="left"
+            android:textSize="13.7dp"
+            android:id="@+id/mText6"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="489.43px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="17.6dp"
+            android:id="@+id/mText7"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="590.5px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/primary"
+            android:gravity="left"
+            android:textSize="15.6dp"
+            android:id="@+id/mText9"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="698.46px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="17.6dp"
+            android:id="@+id/mTextCopy"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="791.05px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/secondary_text"
+            android:gravity="left"
+            android:textSize="13.7dp"
+            android:id="@+id/mTextCopy2"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="863.05px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/secondary_text"
+            android:gravity="right"
+            android:textSize="17.6dp"
+            android:id="@+id/mTimervolume"
+            android:layout_marginLeft="259.71px"
+            android:layout_marginTop="590.5px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/secondary_text"
+            android:gravity="left"
+            android:textSize="13.7dp"
+            android:id="@+id/mRingtoneText"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="202.03px"
+        />
+    
+        <android.support.v7.widget.SwitchCompat
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/mVibrateSwitch"
+            android:layout_marginLeft="610.0px"
+            android:layout_marginTop="310.1px"
+        />
+    
+        <android.support.v7.widget.SwitchCompat
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/mTimerScreenOnSwitch"
+            android:layout_marginLeft="610.0px"
+            android:layout_marginTop="453.43px"
+        />
+    
+        <android.support.v7.widget.SwitchCompat
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/mStopwatchScreenOnSwitch"
+            android:layout_marginLeft="610.0px"
+            android:layout_marginTop="827.05px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mRingtoneButton"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="116.03px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mMaxtimervolumeButton"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="561.5px"
+        />
+    
+</RelativeLayout>

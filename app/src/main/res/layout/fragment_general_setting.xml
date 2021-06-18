@@ -1,0 +1,257 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    tools:context="com.neonto.exportedByUser_s2461812465168012.MyApp.GeneralSettingFragment" >
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.GeneralSettingBackgroundShapeView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/mBackgroundShape"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="0.0mm"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.GeneralSettingRectangleView
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangle"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="159.14px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.GeneralSettingRectangleCopyView
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="317.21px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.GeneralSettingRectangleCopy2View
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy2"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="475.28px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.GeneralSettingRectangleCopy3View
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy3"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="633.35px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.GeneralSettingRectangleCopy4View
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy4"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="791.42px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.GeneralSettingRectangleCopy5View
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy5"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="949.49px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/secondary_text"
+            android:gravity="left"
+            android:textSize="11.7dp"
+            android:id="@+id/mText9"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="561.28px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/secondary_text"
+            android:gravity="left"
+            android:textSize="11.7dp"
+            android:id="@+id/mText10"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="719.35px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="17.6dp"
+            android:id="@+id/mText"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="58.81px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="17.6dp"
+            android:id="@+id/mText2"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="177.14px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="17.6dp"
+            android:id="@+id/mText3"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="335.21px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="17.6dp"
+            android:id="@+id/mText4"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="493.28px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="17.6dp"
+            android:id="@+id/mText5"
+            android:layout_marginLeft="0.71mm"
+            android:layout_marginTop="651.35px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="17.6dp"
+            android:id="@+id/mText6"
+            android:layout_marginLeft="0.71mm"
+            android:layout_marginTop="809.42px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/secondary_text"
+            android:gravity="left"
+            android:textSize="11.7dp"
+            android:id="@+id/mText7"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="245.14px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/secondary_text"
+            android:gravity="left"
+            android:textSize="11.7dp"
+            android:id="@+id/mText8"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="403.21px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/secondary_text"
+            android:gravity="left"
+            android:textSize="13.7dp"
+            android:id="@+id/mLanguageText"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="877.42px"
+        />
+    
+        <android.support.v7.widget.SwitchCompat
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/mPhonespeakerSwitch"
+            android:layout_marginLeft="602.0px"
+            android:layout_marginTop="202.14px"
+        />
+    
+        <android.support.v7.widget.SwitchCompat
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/mN24hourformatSwitch"
+            android:layout_marginLeft="602.0px"
+            android:layout_marginTop="58.81px"
+        />
+    
+        <android.support.v7.widget.SwitchCompat
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/mAlarmScreenSwitch"
+            android:layout_marginLeft="602.0px"
+            android:layout_marginTop="360.21px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mBackgroundButton"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="633.35px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mLanguageButton"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="791.42px"
+        />
+    
+        <android.support.v7.widget.SwitchCompat
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/mNotificationSwitch"
+            android:layout_marginLeft="602.0px"
+            android:layout_marginTop="518.28px"
+        />
+    
+</RelativeLayout>

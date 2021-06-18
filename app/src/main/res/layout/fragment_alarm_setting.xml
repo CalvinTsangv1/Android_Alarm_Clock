@@ -1,0 +1,325 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    tools:context="com.neonto.exportedByUser_s2461812465168012.MyApp.AlarmSettingFragment" >
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.AlarmSettingBackgroundShapeView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/mBackgroundShape"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="0.0mm"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.AlarmSettingRectangleView
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangle"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="0.0px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.AlarmSettingRectangleCopyView
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="1165.04px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.AlarmSettingRectangleCopy2View
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy2"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="1035.71px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.AlarmSettingRectangleCopy3View
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy3"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="877.64px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.AlarmSettingRectangleCopy4View
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy4"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="719.57px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.AlarmSettingRectangleCopy5View
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy5"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="561.5px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.AlarmSettingRectangleCopy6View
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy6"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="216.62px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="17.6dp"
+            android:id="@+id/mText"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="51.81px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="17.6dp"
+            android:id="@+id/mText2"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="234.62px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="17.6dp"
+            android:id="@+id/mText4"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="575.5px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="17.6dp"
+            android:id="@+id/mText6"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="733.57px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="17.6dp"
+            android:id="@+id/mText8"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="891.64px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="17.6dp"
+            android:id="@+id/mText9"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="1071.71px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.AlarmSettingImageView
+            android:layout_width="128.0px"
+            android:layout_height="181.0px"
+            android:id="@+id/mImage"
+            android:layout_marginLeft="556.0px"
+            android:layout_marginTop="29.81px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="17.6dp"
+            android:id="@+id/mText3"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="407.06px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/secondary_text"
+            android:gravity="left"
+            android:textSize="11.7dp"
+            android:id="@+id/mSnoozeAlarmText"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="302.62px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/secondary_text"
+            android:gravity="left"
+            android:textSize="11.7dp"
+            android:id="@+id/mMaxSnoozeText"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="805.57px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/secondary_text"
+            android:gravity="left"
+            android:textSize="11.7dp"
+            android:id="@+id/mSnoozeDurationText"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="647.5px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/secondary_text"
+            android:gravity="left"
+            android:textSize="11.7dp"
+            android:id="@+id/mText10"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="971.64px"
+        />
+    
+        <android.support.v7.widget.SwitchCompat
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/mSilentModeSwitch"
+            android:layout_marginLeft="610.0px"
+            android:layout_marginTop="1071.71px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mDIsmissAlarmTypeButton"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="877.64px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mMaxSnoozesButton"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="719.57px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mSnoozeDurationButton"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="561.5px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mSnoozeAlarmTypeButton"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="216.62px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mPhotoPickerButton"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="29.81px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.AlarmSettingPhotopickerView
+            android:layout_width="306.02px"
+            android:layout_height="306.02px"
+            android:id="@+id/mPhotopicker"
+            android:layout_marginLeft="-53.92mm"
+            android:layout_marginTop="41.44mm"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/secondary_text"
+            android:gravity="left"
+            android:textSize="11.7dp"
+            android:id="@+id/mAlarmText"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="475.06px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mAlarmTypeButtonCopy"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="389.06px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.AlarmSettingRectangleCopy7View
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy7"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="389.06px"
+        />
+    
+</RelativeLayout>

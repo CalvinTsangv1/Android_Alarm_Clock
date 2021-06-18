@@ -1,0 +1,932 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    tools:context="com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmFragment" >
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmBackgroundShapeView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/mBackgroundShape"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="0.0mm"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmRectangleView
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangle"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="130.4px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmRectangleCopyView
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="1050.08px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmRectangleCopy2View
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy2"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="935.12px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmRectangleCopy3View
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy3"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="820.16px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmRectangleCopy4View
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy4"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="705.2px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmRectangleCopy5View
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy5"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="590.24px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmRectangleCopy6View
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy6"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="439.36px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmRectangleCopy7View
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy7"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="245.36px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy12View
+            android:layout_width="51.0px"
+            android:layout_height="51.0px"
+            android:id="@+id/mEllipseCopy12"
+            android:layout_marginLeft="294.4px"
+            android:layout_marginTop="734.2px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy13View
+            android:layout_width="51.0px"
+            android:layout_height="51.0px"
+            android:id="@+id/mEllipseCopy13"
+            android:layout_marginLeft="366.4px"
+            android:layout_marginTop="734.2px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy14View
+            android:layout_width="51.0px"
+            android:layout_height="51.0px"
+            android:id="@+id/mEllipseCopy14"
+            android:layout_marginLeft="438.4px"
+            android:layout_marginTop="734.2px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy15View
+            android:layout_width="51.0px"
+            android:layout_height="51.0px"
+            android:id="@+id/mEllipseCopy15"
+            android:layout_marginLeft="510.4px"
+            android:layout_marginTop="734.2px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy16View
+            android:layout_width="51.0px"
+            android:layout_height="51.0px"
+            android:id="@+id/mEllipseCopy16"
+            android:layout_marginLeft="582.4px"
+            android:layout_marginTop="734.2px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy17View
+            android:layout_width="51.0px"
+            android:layout_height="51.0px"
+            android:id="@+id/mEllipseCopy17"
+            android:layout_marginLeft="654.4px"
+            android:layout_marginTop="734.2px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy25View
+            android:layout_width="51.0px"
+            android:layout_height="51.0px"
+            android:id="@+id/mEllipseCopy25"
+            android:layout_marginLeft="186.4px"
+            android:layout_marginTop="504.36px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy26View
+            android:layout_width="51.0px"
+            android:layout_height="51.0px"
+            android:id="@+id/mEllipseCopy26"
+            android:layout_marginLeft="258.4px"
+            android:layout_marginTop="504.36px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy27View
+            android:layout_width="51.0px"
+            android:layout_height="51.0px"
+            android:id="@+id/mEllipseCopy27"
+            android:layout_marginLeft="330.4px"
+            android:layout_marginTop="504.36px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy28View
+            android:layout_width="51.0px"
+            android:layout_height="51.0px"
+            android:id="@+id/mEllipseCopy28"
+            android:layout_marginLeft="402.4px"
+            android:layout_marginTop="504.36px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy29View
+            android:layout_width="51.0px"
+            android:layout_height="51.0px"
+            android:id="@+id/mEllipseCopy29"
+            android:layout_marginLeft="474.4px"
+            android:layout_marginTop="504.36px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy30View
+            android:layout_width="51.0px"
+            android:layout_height="51.0px"
+            android:id="@+id/mEllipseCopy30"
+            android:layout_marginLeft="546.4px"
+            android:layout_marginTop="504.36px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy31View
+            android:layout_width="51.0px"
+            android:layout_height="51.0px"
+            android:id="@+id/mEllipseCopy31"
+            android:layout_marginLeft="618.4px"
+            android:layout_marginTop="504.36px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopyView
+            android:layout_width="51.0px"
+            android:layout_height="51.0px"
+            android:id="@+id/mEllipseCopy"
+            android:layout_marginLeft="294.4px"
+            android:layout_marginTop="734.2px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseView
+            android:layout_width="51.0px"
+            android:layout_height="51.0px"
+            android:id="@+id/mEllipse"
+            android:layout_marginLeft="654.4px"
+            android:layout_marginTop="734.2px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy2View
+            android:layout_width="51.0px"
+            android:layout_height="51.0px"
+            android:id="@+id/mEllipseCopy2"
+            android:layout_marginLeft="510.4px"
+            android:layout_marginTop="734.2px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy3View
+            android:layout_width="51.0px"
+            android:layout_height="51.0px"
+            android:id="@+id/mEllipseCopy3"
+            android:layout_marginLeft="582.4px"
+            android:layout_marginTop="734.2px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy5View
+            android:layout_width="51.0px"
+            android:layout_height="51.0px"
+            android:id="@+id/mEllipseCopy5"
+            android:layout_marginLeft="438.4px"
+            android:layout_marginTop="734.2px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy6View
+            android:layout_width="51.0px"
+            android:layout_height="51.0px"
+            android:id="@+id/mEllipseCopy6"
+            android:layout_marginLeft="366.4px"
+            android:layout_marginTop="734.2px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy18View
+            android:layout_width="51.0px"
+            android:layout_height="51.0px"
+            android:id="@+id/mEllipseCopy18"
+            android:layout_marginLeft="258.4px"
+            android:layout_marginTop="504.36px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy19View
+            android:layout_width="51.0px"
+            android:layout_height="51.0px"
+            android:id="@+id/mEllipseCopy19"
+            android:layout_marginLeft="186.4px"
+            android:layout_marginTop="504.36px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy20View
+            android:layout_width="51.0px"
+            android:layout_height="51.0px"
+            android:id="@+id/mEllipseCopy20"
+            android:layout_marginLeft="330.4px"
+            android:layout_marginTop="504.36px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy21View
+            android:layout_width="51.0px"
+            android:layout_height="51.0px"
+            android:id="@+id/mEllipseCopy21"
+            android:layout_marginLeft="402.4px"
+            android:layout_marginTop="504.36px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy22View
+            android:layout_width="51.0px"
+            android:layout_height="51.0px"
+            android:id="@+id/mEllipseCopy22"
+            android:layout_marginLeft="474.4px"
+            android:layout_marginTop="504.36px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy23View
+            android:layout_width="51.0px"
+            android:layout_height="51.0px"
+            android:id="@+id/mEllipseCopy23"
+            android:layout_marginLeft="546.4px"
+            android:layout_marginTop="504.36px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy24View
+            android:layout_width="51.0px"
+            android:layout_height="51.0px"
+            android:id="@+id/mEllipseCopy24"
+            android:layout_marginLeft="618.4px"
+            android:layout_marginTop="504.36px"
+        />
+    
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/secondary_text"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:src="@drawable/button_icon717925"
+            android:scaleType="fitCenter"
+            android:background="?android:attr/selectableItemBackground"
+            android:paddingLeft="4.3px"
+            android:paddingRight="4.3px"
+            android:id="@+id/mSoundDisableicon"
+            android:layout_marginLeft="614.4px"
+            android:layout_marginTop="845.16px"
+        />
+    
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/secondary_text"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:src="@drawable/button_icon932867"
+            android:scaleType="fitCenter"
+            android:background="?android:attr/selectableItemBackground"
+            android:paddingLeft="4.3px"
+            android:paddingRight="4.3px"
+            android:id="@+id/mVibreateDisableicon"
+            android:layout_marginLeft="542.4px"
+            android:layout_marginTop="845.16px"
+        />
+    
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/base_text"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:src="@drawable/button_icon575810"
+            android:scaleType="fitCenter"
+            android:background="?android:attr/selectableItemBackground"
+            android:paddingLeft="4.3px"
+            android:paddingRight="4.3px"
+            android:id="@+id/mMusicEnableicon"
+            android:layout_marginLeft="614.4px"
+            android:layout_marginTop="845.16px"
+        />
+    
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/base_text"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:src="@drawable/button_icon47221"
+            android:scaleType="fitCenter"
+            android:background="?android:attr/selectableItemBackground"
+            android:paddingLeft="4.3px"
+            android:paddingRight="4.3px"
+            android:id="@+id/mVibreateEnableicon"
+            android:layout_marginLeft="542.4px"
+            android:layout_marginTop="845.16px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy4View
+            android:layout_width="29.75px"
+            android:layout_height="29.75px"
+            android:id="@+id/mEllipseCopy4"
+            android:layout_marginLeft="665.4px"
+            android:layout_marginTop="745.2px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy7View
+            android:layout_width="29.75px"
+            android:layout_height="29.75px"
+            android:id="@+id/mEllipseCopy7"
+            android:layout_marginLeft="593.4px"
+            android:layout_marginTop="745.2px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy8View
+            android:layout_width="29.75px"
+            android:layout_height="29.75px"
+            android:id="@+id/mEllipseCopy8"
+            android:layout_marginLeft="521.4px"
+            android:layout_marginTop="745.2px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy9View
+            android:layout_width="29.75px"
+            android:layout_height="29.75px"
+            android:id="@+id/mEllipseCopy9"
+            android:layout_marginLeft="449.4px"
+            android:layout_marginTop="745.2px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy10View
+            android:layout_width="29.75px"
+            android:layout_height="29.75px"
+            android:id="@+id/mEllipseCopy10"
+            android:layout_marginLeft="377.4px"
+            android:layout_marginTop="745.2px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmEllipseCopy11View
+            android:layout_width="29.75px"
+            android:layout_height="29.75px"
+            android:id="@+id/mEllipseCopy11"
+            android:layout_marginLeft="305.4px"
+            android:layout_marginTop="745.2px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="center_horizontal"
+            android:textSize="11.7dp"
+            android:id="@+id/mText12"
+            android:layout_marginLeft="186.4px"
+            android:layout_marginTop="515.36px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="center_horizontal"
+            android:textSize="11.7dp"
+            android:id="@+id/mText14"
+            android:layout_marginLeft="258.4px"
+            android:layout_marginTop="515.36px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="center_horizontal"
+            android:textSize="11.7dp"
+            android:id="@+id/mText15"
+            android:layout_marginLeft="330.4px"
+            android:layout_marginTop="515.36px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="center_horizontal"
+            android:textSize="11.7dp"
+            android:id="@+id/mText16"
+            android:layout_marginLeft="402.4px"
+            android:layout_marginTop="515.36px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="center_horizontal"
+            android:textSize="11.7dp"
+            android:id="@+id/mText17"
+            android:layout_marginLeft="477.4px"
+            android:layout_marginTop="515.36px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="center_horizontal"
+            android:textSize="11.7dp"
+            android:id="@+id/mText18"
+            android:layout_marginLeft="549.4px"
+            android:layout_marginTop="515.36px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="center_horizontal"
+            android:textSize="11.7dp"
+            android:id="@+id/mText19"
+            android:layout_marginLeft="621.4px"
+            android:layout_marginTop="515.36px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="18.6dp"
+            android:id="@+id/mText"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="40.44px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="18.6dp"
+            android:id="@+id/mText2"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="155.4px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="18.6dp"
+            android:id="@+id/mText3"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="288.36px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="18.6dp"
+            android:id="@+id/mText4"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="439.36px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="18.6dp"
+            android:id="@+id/mText5"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="615.24px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="18.6dp"
+            android:id="@+id/mText6"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="730.2px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="18.6dp"
+            android:id="@+id/mText7"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="845.16px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="18.6dp"
+            android:id="@+id/mText8"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="960.12px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="18.6dp"
+            android:id="@+id/mText9"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="1075.08px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/secondary_text"
+            android:gravity="right"
+            android:textSize="19.6dp"
+            android:id="@+id/mTimeText"
+            android:layout_marginLeft="345.6px"
+            android:layout_marginTop="40.44px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/secondary_text"
+            android:gravity="right"
+            android:textSize="19.6dp"
+            android:id="@+id/mNameText"
+            android:layout_marginLeft="345.6px"
+            android:layout_marginTop="155.4px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmImageView
+            android:layout_width="128.0px"
+            android:layout_height="128.0px"
+            android:id="@+id/mImage"
+            android:layout_marginLeft="556.0px"
+            android:layout_marginTop="258.36px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/secondary_text"
+            android:gravity="right"
+            android:textSize="21.5dp"
+            android:id="@+id/mRingtoneText"
+            android:layout_marginLeft="464.4px"
+            android:layout_marginTop="615.24px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="right"
+            android:textSize="18.6dp"
+            android:id="@+id/mVolumeText"
+            android:layout_marginLeft="273.71px"
+            android:layout_marginTop="1075.08px"
+        />
+    
+        <android.support.v7.widget.SwitchCompat
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/mSwitch"
+            android:layout_marginLeft="602.0px"
+            android:layout_marginTop="953.12px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mAlarmTimeButton"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="15.44px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mAlarmNameButton"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="130.4px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mPickPictureButton"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="245.36px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mRingtoneButton"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="590.24px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mVolumeButton"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="1050.08px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mMusicButton"
+            android:layout_marginLeft="614.4px"
+            android:layout_marginTop="845.16px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mVibrateButton"
+            android:layout_marginLeft="542.4px"
+            android:layout_marginTop="845.16px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mSatursdayButton"
+            android:layout_marginLeft="546.4px"
+            android:layout_marginTop="504.36px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mFridayButton"
+            android:layout_marginLeft="474.4px"
+            android:layout_marginTop="504.36px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mThursdayButton"
+            android:layout_marginLeft="402.4px"
+            android:layout_marginTop="504.36px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mWednesdayButton"
+            android:layout_marginLeft="330.4px"
+            android:layout_marginTop="504.36px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mTuesdayButton"
+            android:layout_marginLeft="258.4px"
+            android:layout_marginTop="504.36px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mMondayButton"
+            android:layout_marginLeft="186.4px"
+            android:layout_marginTop="504.36px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mSundayButton"
+            android:layout_marginLeft="618.4px"
+            android:layout_marginTop="504.36px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mYellowButton"
+            android:layout_marginLeft="366.4px"
+            android:layout_marginTop="734.2px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mBlockButton"
+            android:layout_marginLeft="294.4px"
+            android:layout_marginTop="734.2px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mBlueButton"
+            android:layout_marginLeft="438.4px"
+            android:layout_marginTop="734.2px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mRedButton"
+            android:layout_marginLeft="510.4px"
+            android:layout_marginTop="734.2px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mGreenButton"
+            android:layout_marginLeft="582.4px"
+            android:layout_marginTop="734.2px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mPurpleButton"
+            android:layout_marginLeft="654.4px"
+            android:layout_marginTop="734.2px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SetAlarmPhotopickerView
+            android:layout_width="306.02px"
+            android:layout_height="306.02px"
+            android:id="@+id/mPhotopicker"
+            android:layout_marginLeft="-57.61mm"
+            android:layout_marginTop="42.57mm"
+        />
+    
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="561.0px"
+            android:id="@+id/mNested"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="245.36px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/primary"
+            android:gravity="center_horizontal|center_vertical"
+            android:textSize="15.6dp"
+            android:background="@drawable/set_alarm_button"
+            android:paddingLeft="4.3px"
+            android:paddingRight="4.3px"
+            android:paddingTop="-6.8dp"
+            android:id="@+id/mButton"
+            android:layout_marginLeft="197.4px"
+            android:layout_marginTop="1179.04px"
+        />
+    
+</RelativeLayout>

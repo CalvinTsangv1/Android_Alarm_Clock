@@ -1,0 +1,205 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    tools:context="com.neonto.exportedByUser_s2461812465168012.MyApp.RecordDetailFragment" >
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.RecordDetailBackgroundShapeView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/mBackgroundShape"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="0.0mm"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.RecordDetailImageView
+            android:layout_width="149.0px"
+            android:layout_height="149.0px"
+            android:id="@+id/mImage"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="58.55px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="15.6dp"
+            android:textStyle="bold"
+            android:id="@+id/mText"
+            android:layout_marginLeft="237.6px"
+            android:layout_marginTop="58.55px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/secondary_text"
+            android:gravity="left"
+            android:textSize="13.7dp"
+            android:id="@+id/mText2"
+            android:layout_marginLeft="237.6px"
+            android:layout_marginTop="116.03px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/secondary_text"
+            android:gravity="center_horizontal"
+            android:textSize="11.7dp"
+            android:id="@+id/mText3"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="892.01px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/secondary_text"
+            android:gravity="center_horizontal"
+            android:textSize="11.7dp"
+            android:id="@+id/mText4"
+            android:layout_marginLeft="360.0px"
+            android:layout_marginTop="892.01px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="center_horizontal"
+            android:textSize="19.6dp"
+            android:id="@+id/mText5"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="949.49px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="center_horizontal"
+            android:textSize="19.6dp"
+            android:id="@+id/mText6"
+            android:layout_marginLeft="360.0px"
+            android:layout_marginTop="949.49px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.RecordDetailRectangleView
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangle"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="892.01px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.RecordDetailRectangleCopyView
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="1021.34px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/secondary_text"
+            android:gravity="center_horizontal"
+            android:textSize="11.7dp"
+            android:id="@+id/mText7"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="1021.34px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/secondary_text"
+            android:gravity="center_horizontal"
+            android:textSize="11.7dp"
+            android:id="@+id/mText8"
+            android:layout_marginLeft="360.0px"
+            android:layout_marginTop="1021.34px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="center_horizontal"
+            android:textSize="19.6dp"
+            android:id="@+id/mText9"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="1078.82px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="center_horizontal"
+            android:textSize="19.6dp"
+            android:id="@+id/mText10"
+            android:layout_marginLeft="360.0px"
+            android:layout_marginTop="1078.82px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/secondary_text"
+            android:gravity="left"
+            android:textSize="13.7dp"
+            android:id="@+id/mText11"
+            android:layout_marginLeft="237.6px"
+            android:layout_marginTop="173.51px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.RecordDetailRectangleCopy2View
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy2"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="1150.67px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.RecordDetailRectangleCopy3View
+            android:layout_width="match_parent"
+            android:layout_height="1.7px"
+            android:id="@+id/mRectangleCopy3"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="288.47px"
+        />
+    
+        <ListView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:listSelector="@android:color/transparent"
+            android:divider="@null"
+            android:dividerHeight="0dp"
+            android:id="@+id/mList"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="317.21px"
+        />
+    
+</RelativeLayout>

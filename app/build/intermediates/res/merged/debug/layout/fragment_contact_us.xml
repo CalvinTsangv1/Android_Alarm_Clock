@@ -1,0 +1,119 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    tools:context="com.neonto.exportedByUser_s2461812465168012.MyApp.ContactUsFragment" >
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.ContactUsBackgroundShapeView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/mBackgroundShape"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="0.0mm"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="15.6dp"
+            android:id="@+id/mText2"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="58.55px"
+        />
+    
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text=""
+            android:singleLine="true"
+            android:ems="10"
+            android:hint="@string/placeholder_mfield_568910"
+            android:inputType="textNoSuggestions"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="15.6dp"
+            android:textCursorDrawable="@null"
+            android:id="@+id/mField"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="130.4px"
+        />
+    
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:hint="@string/mtextarea_914677"
+            android:inputType="textNoSuggestions|textMultiLine"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="13.7dp"
+            android:textCursorDrawable="@null"
+            android:id="@+id/mTextarea"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="331.58px"
+        />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="15.6dp"
+            android:id="@+id/mText"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="259.73px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/primary"
+            android:gravity="center_horizontal|center_vertical"
+            android:textSize="15.6dp"
+            android:background="@drawable/contact_us_button"
+            android:paddingLeft="4.3px"
+            android:paddingRight="4.3px"
+            android:paddingTop="-6.8dp"
+            android:id="@+id/mButton"
+            android:layout_marginLeft="254.0px"
+            android:layout_marginTop="1028.6px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.ContactUsRectangle2View
+            android:layout_width="match_parent"
+            android:layout_height="662.02px"
+            android:id="@+id/mRectangle2"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="331.58px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.ContactUsRectangle3View
+            android:layout_width="match_parent"
+            android:layout_height="63.76px"
+            android:id="@+id/mRectangle3"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="137.4px"
+        />
+    
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.ContactUsRectangleView
+            android:layout_width="match_parent"
+            android:layout_height="2.13px"
+            android:id="@+id/mRectangle"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="259.73px"
+        />
+    
+</RelativeLayout>

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\stencil3_image.png",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\drawable-mdpi\\stencil3_image.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\record_save_image.png",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\drawable-mdpi\\record_save_image.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\alarm_setting_image.png",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\drawable-mdpi\\alarm_setting_image.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\set_alarm_image.png",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\drawable-mdpi\\set_alarm_image.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\alarm_screen_image.png",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\drawable-mdpi\\alarm_screen_image.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\alarm_screen_image.png",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\drawable-mdpi\\alarm_screen_image.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\record_detail_image.png",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\drawable-mdpi\\record_detail_image.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\record_stopwatch_list_item_image.png",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\drawable-mdpi\\record_stopwatch_list_item_image.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\record_stopwatch_list_item_image.png",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\drawable-mdpi\\record_stopwatch_list_item_image.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\set_alarm_image.png",
+        "source": "C:\\Users\\user\\Desktop\\Application\\My App (Test)\\app\\src\\main\\res\\drawable-mdpi\\set_alarm_image.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\stencil3_image.png",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\drawable-mdpi\\stencil3_image.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\record_save_image.png",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\drawable-mdpi\\record_save_image.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\alarm_setting_image.png",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\drawable-mdpi\\alarm_setting_image.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\record_detail_image.png",
+        "source": "C:\\Users\\user\\Desktop\\Program\\Application\\My App (Test)\\app\\src\\main\\res\\drawable-mdpi\\record_detail_image.png"
+    }
+]

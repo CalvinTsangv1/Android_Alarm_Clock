@@ -1,0 +1,70 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    tools:context="com.neonto.exportedByUser_s2461812465168012.MyApp.SleepingFragment" >
+        <com.neonto.exportedByUser_s2461812465168012.MyApp.SleepingBackgroundShapeView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/mBackgroundShape"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="0.0mm"
+        />
+
+        <com.github.mikephil.charting.charts.PieChart
+            android:layout_width="330dp"
+            android:layout_height="330dp"
+            android:gravity="left|center_vertical"
+            android:id="@+id/graph"
+            android:layout_marginLeft="41.0px"
+            android:layout_marginTop="101.66px"
+            />
+    
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/secondary_text"
+            android:gravity="center_horizontal"
+            android:textSize="15.6dp"
+            android:id="@+id/mText2"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="29.81px"
+        />
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/action"
+            android:gravity="left|center_vertical"
+            android:textSize="0.0dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/mHotspot"
+            android:layout_marginLeft="41.0px"
+            android:layout_marginTop="101.66px"
+        />
+
+    
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/primary"
+            android:gravity="center_horizontal|center_vertical"
+            android:textSize="15.6dp"
+            android:background="@drawable/sleeping_button"
+            android:paddingLeft="4.3px"
+            android:paddingRight="4.3px"
+            android:paddingTop="-6.8dp"
+            android:id="@+id/mButton"
+            android:layout_marginLeft="254.0px"
+            android:layout_marginTop="920.75px"
+        />
+    
+</RelativeLayout>

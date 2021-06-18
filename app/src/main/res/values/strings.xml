@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sleeping_data_title">Sleeping Data</string>
+    <string name="placeholder_mfield_568910">Reply email address</string>
+    <string name="alarm_screen_title">AlarmScreen</string>
+    <string name="app_name">My App</string>
+    <string name="placeholder_mtitleedittext_950521">Add a title</string>
+    <string name="mtextarea_914677">Please write your message!</string>
+    <string name="sleepingtrack_title">Sleeping track</string>
+    <string name="alarm_title">Alarm</string>
+    <string name="sleeping_title">Sleeping</string>
+    <string name="timer_title">Timer</string>
+    <string name="stop_watch_timer_settings_title">StopWatch/Timer Settings</string>
+    <string name="setting_title">Setting</string>
+    <string name="record_stopwatch_list_title">Record Stopwatch List</string>
+    <string name="record_detail_title">RecordDetail</string>
+    <string name="stop_watch_title">StopWatch</string>
+    <string name="more_title">More</string>
+    <string name="contactus_title">Contact us</string>
+    <string name="mdescriptionedittext_517210">Add a description</string>
+    <string name="alarm_setting_title">Alarm Setting</string>
+    <string name="record_save_title">Record Save</string>
+    <string name="general_setting_title">General Setting</string>
+    <string name="set_alarm_title">Set Alarm</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="facebook_app_id">423441914691782</string>
+</resources>
